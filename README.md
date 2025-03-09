@@ -1,12 +1,5 @@
 # Anomaly Detection React App
 
-This is a React-based web application for anomaly detection, featuring multiple pages such as Multi-Channel View, Alerts, and Uploaded Files. The app includes a navigation bar, a footer, and various interactive elements.
-
-## Features
-- **Navigation Bar**: Common across all pages.
-- **Multi-Channel View**: Displays uploaded files and a graph preview.
-- **Alerts Page**: Shows alerts in a card format.
-- **Uploaded Files Page**: Displays uploaded datasets and allows model selection.
 
 ## Prerequisites
 Ensure you have the following installed:
