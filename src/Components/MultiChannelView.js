@@ -5,8 +5,8 @@ import image from "./Screenshot 2025-03-09 at 1.39.35 AM.png";
 const MultiChannelView = () => {
   const [selectedFile, setSelectedFile] = useState(null);
   const uploadedFiles = [
-    { name: "Dataset1.csv", size: "2MB", date: "2025-03-08" },
-    { name: "Dataset2.csv", size: "1.5MB", date: "2025-03-08" },
+    { name: "steel_industry_data.csv", size: "2MB", date: "2025-03-08" },
+    { name: "anomaly_detected_data.csv", size: "1.5MB", date: "2025-03-08" },
   ];
 
   return (

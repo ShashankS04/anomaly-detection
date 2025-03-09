@@ -3,8 +3,8 @@ import Navbar from "./Nav";
 
 const ModelTrain = () => {
     const uploadedFiles = [
-      { name: "Dataset1.csv", size: "2MB", date: "2025-03-08" },
-      { name: "Dataset2.csv", size: "1.5MB", date: "2025-03-08" },
+      { name: "steel_industry_data.csv", size: "2MB", date: "2025-03-08" },
+      { name: "anomaly_detected_data.csv", size: "1.5MB", date: "2025-03-08" },
     ];
   
     return (
@@ -44,13 +44,13 @@ const ModelTrain = () => {
                 <td>
                   <input type="radio" name="model" value="Model1" />
                 </td>
-                <td>Model 1</td>
+                <td>Anomaly Detection 1</td>
               </tr>
               <tr>
                 <td>
                   <input type="radio" name="model" value="Model2" />
                 </td>
-                <td>Model 2</td>
+                <td>Anomaly Detection 2</td>
               </tr>
             </tbody>
           </table>
