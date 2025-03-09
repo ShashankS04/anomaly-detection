@@ -8,7 +8,7 @@ Ensure you have the following installed:
 ## Installation
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-repo/anomaly-detection-react.git
+   git clone https://github.com/your-repo/anomaly-detection-react.git](https://github.com/ShashankS04/anomaly-detection.git
    cd anomaly-detection-react
    ```
 
